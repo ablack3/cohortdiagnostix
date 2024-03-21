@@ -1,0 +1,6 @@
+cohort_name,number_records,number_subjects,reason_id,reason,excluded_records,excluded_subjects
+cerebral_venous_sinus_thrombosis_1,0,0,1,Qualifying initial records,0,0
+deep_vein_thrombosis_1,64,64,1,Qualifying initial records,0,0
+gibleed_male,0,0,1,Qualifying initial records,0,0
+gibleed_male,0,0,2,Male,0,0
+gibleed_male,0,0,3,30 days prior observation,0,0

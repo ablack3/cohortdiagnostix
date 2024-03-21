@@ -1,0 +1,4 @@
+cohort_definition_id,period,min,p10_value,p25_value,p50_value,p75_value,p90_value,max,avg
+2,time_in_cohort,1,1,1,1,1,1,1,1
+2,future_observation,2,18,24,351,682,799,872,375.984375
+2,prior_observation,1524,2274,2538,2932,3590,11127,31630,4722.546875
